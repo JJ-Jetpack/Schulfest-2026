@@ -76,6 +76,7 @@ Vorderer Pausenhof:
 | 15:00 | 18:00 | Kletterturm |  |
 
 Bühnenprogramm:
+
 | Wann? | Was? | Wo? |
 | ------------- | ------------- | ------------- |
 | 15:10 | Schulband | Aula |
