@@ -4,5 +4,5 @@
 
 | Ab Wann?  | Bis Wann? | Was? | Wo?  | Sonstige Information|
 | ------------- | ------------- | ------------- | ------------- |-------------|
-| 15:00  | 18:00  | Bonverkauf  | Vor der Aula  ||
-| 15:00  | 19:00  | SChulkeidung / Merch  | MS1  ||
+| 15:00  | 18:00  | Bonverkauf  | Vor der Aula  | 1€ = 1Bon |
+| 15:00  | 19:00  | Schulkeidung / Merch  | MS1  ||
