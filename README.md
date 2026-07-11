@@ -5,6 +5,8 @@ Bonverkaufsstellen:
 - Pausenhof (bei regen in der Aula)
 - Valentin Hof
 
+[Lageplan](https://jj-jetpack.github.io/schulfest/Lageplan.pdf?toolbar=0)
+
 |  |  |  |  |  |
   
 Gebäude Mendel:
@@ -48,19 +50,47 @@ Hof Valentin:
 
 | Ab Wann? | Bis Wann? | Was? | Sonstige Information|
 | ------------- | ------------- | ------------- | ------------- |
-| 15:00 | 17:30 | Riesen-Seifenblasen, 6d |  |  
+| 15:00 | 17:30 | Riesen-Seifenblasen, 6d | bei Regen: P.1.19 |  
 | 15:30 | 16:00 | Experimental-Workshop, Wahlkurs Jugend forscht | bei Regen: CÜ1 |  
 | 17:00 | 17:30 | Experimental-Workshop, Wahlkurs Jugend forscht | bei Regen: CÜ1 |
 | 15:00 | 18:00 | Dosenwerfen, 6c | bei Regen: P1.20 |
 | 15:00 | 18:00 | Eierkarton-Challenge, 6a | bei Regen: P 0.20 |
-| 16:00 | 17:00 | *Bobbycar Rennen, 8b |  |
+| 16:00 | 17:00 | *Bobbycar Rennen, 8b | bei Regen: entfällt |
 | 15:00 | 18:00 | Getränke, SMV |  |
 
 Sportplatz:
 
 | Ab Wann? | Bis Wann? | Was? | Sonstige Information|
 | ------------- | ------------- | ------------- | ------------- |
-| 15:00 | 18:00 | Basketball, Herr Will | bei Regen: Gym Halle |  
+| 15:00 | 18:00 | Basketball, Herr Will | bei Regen: Gym Halle |
+| 15:00 | 18:00 | Fußball | bei Regen: Gym Halle |  
+| 15:00 | 18:00 | Nageln | bei Regen: P 1.22 |  
+
+Vorderer Pausenhof:
+
+| Ab Wann? | Bis Wann? | Was? | Sonstige Information|
+| ------------- | ------------- | ------------- | ------------- |
+| 15:00 | 18:00 | Bratwürste |  |
+| 15:00 | 18:00 | Spiralkartoffeln |  |
+| 15:00 | 18:00 | Taboulé |  |
+| 15:00 | 18:00 | Kletterturm |  |
+
+Bühnenprogramm:
+| Wann? | Was? | Wo? |
+| ------------- | ------------- | ------------- |
+| 15:10 | Schulband | Aula |
+| 15:30 | Begrüßung durch die Schulleitung | Aula |
+| 15:40 | Modenschau Schul-Merch (P-Seminar Pressearbeit) | Aula |
+| 16:05 | Tanz 5.Klasse | Pausenhof |
+| 16:15 | Basketball Tanz 6. Klasse | Pausenhof |
+| 16:25 | Tanz – WK Hip Hop & Musical Dance | Pausenhof |
+| 16:45 | Urwald-Song – MusiCalls & Schulchor | Aula |
+| 17:30 | Bigband | Aula |
+| 15:40 - 16:30 | Jazz-Lounge mit Jonny und Georgie | Valentinhof |
+
+
+
+Wir freuen uns auf euch und wünschen euch viel Spaß!
 
 
 
@@ -68,8 +98,3 @@ Sportplatz:
 
 
 
-
-
-
-
-[Lageplan](https://jj-jetpack.github.io/schulfest/Lageplan.pdf?toolbar=0)
