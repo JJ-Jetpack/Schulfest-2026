@@ -1,10 +1,11 @@
-Schulfest 2026 - Was? Wann? Wo?
+# Schulfest 2026 - Was? Wann? Wo?
 
 ## Bonverkaufsstellen:
 - Sekre (P1.11)
 - Pausenhof (bei regen in der Aula)
 - Valentin Hof
 
+## Lageplan
 [Lageplan](https://jj-jetpack.github.io/schulfest/Lageplan.pdf?toolbar=0)
 
 
