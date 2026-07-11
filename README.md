@@ -91,7 +91,7 @@
 | 15:40 - 16:30 | Jazz-Lounge mit Jonny und Georgie | Valentinhof |
 
 
-> [!IMPORTANT]
+> [!Important]
 > Wir freuen uns auf euch und wünschen euch viel Spaß!
 
 
