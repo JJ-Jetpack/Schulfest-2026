@@ -1,15 +1,15 @@
 Schulfest 2026 - Was? Wann? Wo?
 
-Bonverkaufsstellen:
+## Bonverkaufsstellen:
 - Sekre (P1.11)
 - Pausenhof (bei regen in der Aula)
 - Valentin Hof
 
 [Lageplan](https://jj-jetpack.github.io/schulfest/Lageplan.pdf?toolbar=0)
 
-|  |  |  |  |  |
+
   
-Gebäude Mendel:
+## Gebäude Mendel:
 
 | Ab Wann? | Bis Wann? | Was? | Wo? | Sonstige Information|
 | ------------- | ------------- | ------------- | ------------- |-------------|
@@ -21,7 +21,7 @@ Gebäude Mendel:
 | 15:00 | 18:00 | Café der Freunde vom Freundeskreis | M1.01 |  |
 | 15:00 | 18:00 | Legoausstellung: 250 Jahre USA, Herr Gaul | Bio Forum Vitrinen |  |
 
-Gebäude Pestalozzi:
+## Gebäude Pestalozzi:
 
 | Ab Wann? | Bis Wann? | Was? | Wo? | Sonstige Information|
 | ------------- | ------------- | ------------- | ------------- |-------------|
@@ -38,7 +38,7 @@ Gebäude Pestalozzi:
 | 15:00 | 18:00 | Physikplakate | Forum 5 |  |
 
 
-Gebäude Valentin:
+## Gebäude Valentin:
 
 | Ab Wann? | Bis Wann? | Was? | Wo? | Sonstige Information|
 | ------------- | ------------- | ------------- | ------------- |-------------|
@@ -46,7 +46,7 @@ Gebäude Valentin:
 | 15:00 | 18:00 | Kinderschminken, Tutoren + 8b | ZS1 |  |
 | 15:00 | 18:00 | Fotobooth Wahlkurs Bühne und Kostüm | ZS2 |  |
 
-Hof Valentin:
+## Hof Valentin:
 
 | Ab Wann? | Bis Wann? | Was? | Sonstige Information|
 | ------------- | ------------- | ------------- | ------------- |
@@ -58,7 +58,7 @@ Hof Valentin:
 | 16:00 | 17:00 | *Bobbycar Rennen, 8b | bei Regen: entfällt |
 | 15:00 | 18:00 | Getränke, SMV |  |
 
-Sportplatz:
+## Sportplatz:
 
 | Ab Wann? | Bis Wann? | Was? | Sonstige Information|
 | ------------- | ------------- | ------------- | ------------- |
@@ -66,7 +66,7 @@ Sportplatz:
 | 15:00 | 18:00 | Fußball | bei Regen: Gym Halle |  
 | 15:00 | 18:00 | Nageln | bei Regen: P 1.22 |  
 
-Vorderer Pausenhof:
+## Vorderer Pausenhof:
 
 | Ab Wann? | Bis Wann? | Was? | Sonstige Information|
 | ------------- | ------------- | ------------- | ------------- |
@@ -75,7 +75,7 @@ Vorderer Pausenhof:
 | 15:00 | 18:00 | Taboulé |  |
 | 15:00 | 18:00 | Kletterturm |  |
 
-Bühnenprogramm:
+## Bühnenprogramm:
 
 | Wann? | Was? | Wo? |
 | ------------- | ------------- | ------------- |
@@ -91,7 +91,7 @@ Bühnenprogramm:
 
 
 
-Wir freuen uns auf euch und wünschen euch viel Spaß!
+>Wir freuen uns auf euch und wünschen euch viel Spaß!
 
 
 
