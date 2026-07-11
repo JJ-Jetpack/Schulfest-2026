@@ -1,5 +1,5 @@
-# Schulfest 2026 - Was? Wann? Wo?
-
+Schulfest 2026 - Was? Wann? Wo?
+ 
 [Lageplan](https://jj-jetpack.github.io/schulfest/Lageplan.pdf?toolbar=0)
 
 | Ab Wann?  | Bis Wann? | Was? | Wo?  | Sonstige Information|
