@@ -3,7 +3,7 @@
 ## Bonverkaufsstellen:
 - Sekre (P1.11)
 - Pausenhof (bei Regen in der Aula)
-- Valentin Hof
+- Valentinhof
 
 ## Lageplan
 [Lageplan Schulfest Gym Hip 2026](https://jj-jetpack.github.io/schulfest/Lageplan.pdf?toolbar=0)
