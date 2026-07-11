@@ -91,8 +91,9 @@
 | 15:40 - 16:30 | Jazz-Lounge mit Jonny und Georgie | Valentinhof |
 
 
+> [!IMPORTANT]
+> Wir freuen uns auf euch und wünschen euch viel Spaß!
 
->Wir freuen uns auf euch und wünschen euch viel Spaß!
 
 
 
