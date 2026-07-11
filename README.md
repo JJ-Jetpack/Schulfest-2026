@@ -1,8 +1,8 @@
 # Schulfest 2026 - Was Wann Wo?
-test
-123
 
-| First Header  | Second Header |
-| ------------- | ------------- |
-| Content Cell  | Content Cell  |
-| Content Cell  | Content Cell  |
+[Lageplan](https://jj-jetpack.github.io/schulfest/Lageplan.pdf?toolbar=0)
+
+| Ab Wann?  | Bis Wann? | Was? | Wo?  | Content Cell  |
+| ------------- | ------------- | ------------- | ------------- |-------------|
+| 15:00  | 18:00  | Bonverkauf  | Vor der Aula  ||
+| 15:00  | 19:00  | SChulkeidung / Merch  | MS1  ||
