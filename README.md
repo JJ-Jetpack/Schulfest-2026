@@ -17,7 +17,7 @@ Gebäude Mendel:
 | 15:00 | 18:00 | Butterbrezeln, 10.Klassen | Mensa |  |
 | 15:00 | 18:00 | Kaffee & Kuchen vom Elternbeirat + Q12 | Mensa |  |
 | 15:00 | 18:00 | Café der Freunde vom Freundeskreis | M1.01 |  |
-| 15:00 | 18:00 | Legoausstellung: 250 Jahre USA, Gaul | Bio Forum Vitrinen |  |
+| 15:00 | 18:00 | Legoausstellung: 250 Jahre USA, Herr Gaul | Bio Forum Vitrinen |  |
 
 Gebäude Pestalozzi:
 
@@ -34,6 +34,39 @@ Gebäude Pestalozzi:
 | 15:00 | 18:00 | Mario-Kart, 6b | P1.21 |  |
 | 15:00 | 18:00 | Lapbooks der Jgst. 6 | Forum 6 |  |
 | 15:00 | 18:00 | Physikplakate | Forum 5 |  |
+
+
+Gebäude Valentin:
+
+| Ab Wann? | Bis Wann? | Was? | Wo? | Sonstige Information|
+| ------------- | ------------- | ------------- | ------------- |-------------|
+| 15:00 | 17:00 | Töpfern von Insektentränken, Wahlkurs Umweltschule | P1.07 |  |
+| 15:00 | 18:00 | Kinderschminken, Tutoren + 8b | ZS1 |  |
+| 15:00 | 18:00 | Fotobooth Wahlkurs Bühne und Kostüm | ZS2 |  |
+
+Hof Valentin:
+
+| Ab Wann? | Bis Wann? | Was? | Sonstige Information|
+| ------------- | ------------- | ------------- | ------------- |
+| 15:00 | 17:30 | Riesen-Seifenblasen, 6d |  |  
+| 15:30 | 16:00 | Experimental-Workshop, Wahlkurs Jugend forscht | bei Regen: CÜ1 |  
+| 17:00 | 17:30 | Experimental-Workshop, Wahlkurs Jugend forscht | bei Regen: CÜ1 |
+| 15:00 | 18:00 | Dosenwerfen, 6c | bei Regen: P1.20 |
+| 15:00 | 18:00 | Eierkarton-Challenge, 6a | bei Regen: P 0.20 |
+| 16:00 | 17:00 | *Bobbycar Rennen, 8b |  |
+| 15:00 | 18:00 | Getränke, SMV |  |
+
+Sportplatz:
+
+| Ab Wann? | Bis Wann? | Was? | Sonstige Information|
+| ------------- | ------------- | ------------- | ------------- |
+| 15:00 | 18:00 | Basketball, Herr Will | bei Regen: Gym Halle |  
+
+
+
+
+
+
 
 
 
