@@ -16,7 +16,7 @@
 | ------------- | ------------- | ------------- | ------------- |
 | 15:00 | 18:00 | Fundsachen | Sekre |
 | 15:00 | 18:00 | 1.Hilfe: Demonstration HLW…, Wahlkurs Schulsanitäter | Krankenzimmer |
-| 15:00 | 18:00 | Buttonherstellung, 8a Schlehengeleeverkauf Wahlkurs Natur erleben / Imker | P1.33 |
+| 15:00 | 18:00 | Buttonherstellung, 8a Schlehengeleeverkauf Wahlkurs Natur erleben / Imkern | P1.33 |
 | 15:00 | 18:00 | Römer-Zimmer, Fachschaft Latein | P1.31 |
 | 15:00 | 18:00 | Roulette, 8c | P1.28 |
 | 15:00 | 18:00 | Sommerliches Basteln, z. B. Schmuck, SMV | P1.26 |
