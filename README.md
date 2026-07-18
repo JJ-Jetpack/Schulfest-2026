@@ -74,7 +74,7 @@
 | ------------- | ------------- | ------------- | ------------- |
 | 15:00 | 18:00 | Bratwürste |   |
 | 15:00 | 18:00 | Spiralkartoffeln |  |
-| 15:00 | 18:00 | Couscous |  |
+| 15:00 | 18:00 | Taboulé (oder auch Couscous) |  |
 | 15:00 | 18:00 | Kletterturm | entfällt |
 
 ## Bühnenprogramm:
