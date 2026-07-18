@@ -6,7 +6,7 @@
 - Valentinhof
 
 ## Lageplan
-[Lageplan Schulfest Gym Hip](jj-jetpack.github.io/Schulfest-2026/Lageplan.pdf?toolbar=0)
+[Lageplan Schulfest Gym Hip](/Lageplan.pdf?toolbar=0)
 
 
   
