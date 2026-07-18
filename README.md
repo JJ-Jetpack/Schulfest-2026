@@ -23,7 +23,7 @@
 | 15:00 | 18:00 | Sim Racin, Technik erFAHRbar machen | P1.24 |
 | 16:00 | 17:00 | Mario-Kart Battle | P1.21 |
 | 15:00 | 18:00 | Lapbooks der Jgst. 6 | Forum 6 |
-| 15:00 | 18:00 | Physikplakate und Lapbooks Jgst. 10 | Forum 5 |
+| 15:00 | 18:00 | Physikplakate Jgst. 11 und Lapbooks Jgst. 10 | Forum 5 |
 
 
 ## Gebäude Mendel:
