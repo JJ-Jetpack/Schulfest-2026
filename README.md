@@ -1,4 +1,4 @@
-# Programm - Was? Wann? Wo?
+# Programm - Wann? Was? Wo?
 
 ## Bonverkaufsstellen:
 - Sekre (P1.11)
