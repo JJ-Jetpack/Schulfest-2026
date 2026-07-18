@@ -10,18 +10,6 @@
 
 
   
-## Gebäude Mendel:
-
-| Ab Wann? | Bis Wann? | Was? | Wo? |
-| ------------- | ------------- | ------------- | ------------- |
-| 15:00 | 18:00 | Glücksrad, 6e | Aula, Aufgang |
-| 16:00 | 17:30 | Schulkleidungsshop P-Seminar  | MS1 |
-| 15:00 | 18:00 | Tapas, FS Spanisch | Mensa |
-| 15:00 | 18:00 | Butterbrezeln, 10.Klassen | Mensa |
-| 15:00 | 18:00 | Kaffee & Kuchen vom Elternbeirat + Q12 | Mensa |
-| 15:00 | 18:00 | Café der Freunde vom Freundeskreis | M1.01 |
-| 15:00 | 18:00 | Legoausstellung: 250 Jahre USA, Herr Gaul | Bio Forum Vitrinen |
-
 ## Gebäude Pestalozzi:
 
 | Ab Wann? | Bis Wann? | Was? | Wo? |
@@ -33,10 +21,22 @@
 | 15:00 | 18:00 | Roulette, 8c | P1.28 |
 | 15:00 | 18:00 | Sommerliches Basteln, z. B. Schmuck, SMV | P1.26 |
 | 15:00 | 18:00 | Sim Racin, Technik erFAHRbar machen | P1.24 |
-| 15:00 | 18:00 | Plauderecke | P1.22 & P1.20 |
-| 15:00 | 18:00 | Mario-Kart, 6b | P1.21 |
+| 16:00 | 17:00 | Mario-Kart Battle | P1.21 |
 | 15:00 | 18:00 | Lapbooks der Jgst. 6 | Forum 6 |
-| 15:00 | 18:00 | Physikplakate | Forum 5 |
+| 15:00 | 18:00 | Physikplakate und Lapbooks Jgst. 10 | Forum 5 |
+
+
+## Gebäude Mendel:
+
+| Ab Wann? | Bis Wann? | Was? | Wo? |
+| ------------- | ------------- | ------------- | ------------- |
+| 15:00 | 18:00 | Glücksrad, 6e | Aula, Aufgang |
+| 15:00 | 18:00 | Schulkleidungsshop P-Seminar  | MS1 |
+| 15:00 | 18:00 | Butterbrezeln, 10.Klassen | Mensa |
+| 15:00 | 18:00 | Tapas, Spanischkurse | Mensa |
+| 15:00 | 18:00 | Kaffee & Kuchen vom Elternbeirat + Q12 | Mensa |
+| 15:00 | 18:00 | Café der Freunde vom Freundeskreis | M1.01 |
+| 15:00 | 18:00 | Legoausstellung: 250 Jahre USA, Herr Gaul | Bio Forum Vitrinen |
 
 
 ## Gebäude Valentin:
@@ -44,8 +44,8 @@
 | Ab Wann? | Bis Wann? | Was? | Wo? |
 | ------------- | ------------- | ------------- | ------------- |
 | 15:00 | 17:00 | Töpfern von Insektentränken, Wahlkurs Umweltschule | P1.07 |
-| 15:00 | 18:00 | Kinderschminken, Tutoren + 8b | ZS1 |
-| 15:00 | 18:00 | Fotobooth Wahlkurs Bühne und Kostüm | ZS2 |
+| 15:00 | 18:00 | Fotobooth Wahlkurs Bühne und Kostüm | ZS1 |
+| 15:00 | 18:00 | Kinderschminken, Tutoren + 8b | ZS2 |
 
 ## Hof Valentin:
 
@@ -56,7 +56,7 @@
 | 17:00 | 17:30 | Experimental-Workshop, Wahlkurs Jugend forscht | CÜ1 |
 | 15:00 | 18:00 | Dosenwerfen, 6c | P1.20 |
 | 15:00 | 18:00 | Eierkarton-Challenge, 6a | P 0.20 |
-| 16:00 | 17:00 | *Bobbycar Rennen, 8b | entfällt |
+| 16:00 | 17:00 | Bobbycar Rennen, 8b | entfällt |
 | 15:00 | 18:00 | Getränke, SMV |  |
 
 ## Sportplatz:
@@ -64,7 +64,8 @@
 | Ab Wann? | Bis Wann? | Was? | Ort bei Regen |
 | ------------- | ------------- | ------------- | ------------- |
 | 15:00 | 18:00 | Basketball, Herr Will | Gym Halle |
-| 15:00 | 18:00 | Fußball | Gym Halle |  
+| 15:00 | 18:00 | Fußballminigolf, 7d | Gym Halle |
+| 15:00 | 18:00 | Skill Court, 7d | Gym Halle |
 | 15:00 | 18:00 | Nageln | P 1.22 |  
 
 ## Vorderer Pausenhof:
@@ -73,7 +74,7 @@
 | ------------- | ------------- | ------------- | ------------- |
 | 15:00 | 18:00 | Bratwürste |   |
 | 15:00 | 18:00 | Spiralkartoffeln |  |
-| 15:00 | 18:00 | Taboulé |  |
+| 15:00 | 18:00 | Couscous |  |
 | 15:00 | 18:00 | Kletterturm | entfällt |
 
 ## Bühnenprogramm:
@@ -82,7 +83,6 @@
 | ------------- | ------------- | ------------- |
 | 15:10 | Schulband | Aula |
 | 15:30 | Begrüßung durch die Schulleitung | Aula |
-| 15:40 | Modenschau Schul-Merch (P-Seminar Pressearbeit) | Aula |
 | 16:05 | Tanz 5.Klasse | Pausenhof |
 | 16:15 | Basketball Tanz 6. Klasse | Pausenhof |
 | 16:25 | Tanz – WK Hip Hop & Musical Dance | Pausenhof |
