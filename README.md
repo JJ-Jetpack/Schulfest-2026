@@ -93,7 +93,7 @@
 
 
 
-> Wir freuen uns auf euch und wünschen euch viel Spaß!
+> Wir freuen uns auf Euch und wünschen Euch viel Spaß!
 
 
 
