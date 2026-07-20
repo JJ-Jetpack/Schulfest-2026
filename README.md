@@ -61,22 +61,22 @@
 
 ## Sportplatz:
 
-| Ab Wann? | Bis Wann? | Was? | Ort bei Regen |
+| Ab Wann? | Bis Wann? | Was? | Sonstiges |
 | ------------- | ------------- | ------------- | ------------- |
-| 15:00 | 18:00 | Basketball, Herr Will | Gym Halle |
-| 15:00 | 18:00 | Fußballminigolf, 7d | Gym Halle |
-| 15:00 | 18:00 | Skill Court, 7d | Gym Halle |
-| 15:00 | 18:00 | Nageln | P 1.22 |  
+| 15:00 | 18:00 | Basketball, Herr Will | Bei Regen: Gym Halle |
+| 15:00 | 18:00 | Fußballminigolf, 7d | Bei Regen: Gym Halle |
+| 15:00 | 18:00 | Skill Court, 7d | Bei Regen: Gym Halle |
+| 15:00 | 18:00 | Nageln | Bei Regen: P 1.22 |  
 
 ## Vorderer Pausenhof:
 
-| Ab Wann? | Bis Wann? | Was? | Ort bei Regen |
+| Ab Wann? | Bis Wann? | Was? | Sonstiges: |
 | ------------- | ------------- | ------------- | ------------- |
 | 15:00 | 18:00 | Bratwürste |   |
 | 15:00 | 18:00 | Spiralkartoffeln |  |
 | 15:00 | 18:00 | Taboulé |  |
 | 15:00 | 18:00 | Schupfnudeln mit Kraut, Q12 |  |
-| 15:00 | 18:00 | Kletterturm | entfällt |
+| 15:00 | 18:00 | Kletterturm | Bei Regen: entfällt |
 
 ## Bühnenprogramm:
 
@@ -89,8 +89,9 @@
 | 16:25 | Tanz – WK Hip Hop & Musical Dance | Pausenhof |
 | 16:45 | Urwald-Song – MusiCalls & Schulchor | Aula |
 | 17:30 | Bigband | Aula |
-| 15:40 - 16:30 | Jazz-Lounge mit Jonny und Georgie | Valentinhof |
+| 15:40 - 16:30 | Georgine and Jhonny's joines Jazz-Jam | Valentinhof |
 
+Bei Regen: Tänze in der Gym Halle - Jazz in P1.19
 
 
 > Wir freuen uns auf Euch und wünschen Euch viel Spaß!
