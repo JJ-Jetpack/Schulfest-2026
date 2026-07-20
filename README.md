@@ -66,7 +66,7 @@
 | 15:00 | 18:00 | Basketball, Herr Will | Bei Regen: Gym Halle |
 | 15:00 | 18:00 | Fußballminigolf, 7d | Bei Regen: Gym Halle |
 | 15:00 | 18:00 | Skill Court, 7d | Bei Regen: Gym Halle |
-| 15:00 | 18:00 | Nageln, 8d | Bei Regen: P 1.22 |  
+| 15:00 | 18:00 | Nageln, 8d | Bei Regen: P1.22 |  
 
 ## Vorderer Pausenhof:
 
