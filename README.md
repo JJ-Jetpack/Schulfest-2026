@@ -51,7 +51,7 @@
 
 | Ab Wann? | Bis Wann? | Was? | Ort bei Regen |
 | ------------- | ------------- | ------------- | ------------- |
-| 15:00 | 17:30 | Riesen-Seifenblasen, 6d | P.1.19 |  
+| 15:00 | 17:30 | Riesen-Seifenblasen, 6d | P1.19 |  
 | 15:30 | 16:00 | Experimental-Workshop, Wahlkurs Jugend forscht | CÜ1 |  
 | 17:00 | 17:30 | Experimental-Workshop, Wahlkurs Jugend forscht | CÜ1 |
 | 15:00 | 18:00 | Dosenwerfen, 6c | P1.20 |
