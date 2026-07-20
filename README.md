@@ -2,7 +2,7 @@
 
 ## Bonverkaufsstellen:
 - Sekre (P1.11)
-- Pausenhof (bei Regen in der Aula)
+- Vorderer Pausenhof (bei Regen in der Aula)
 - Valentinhof
 
 ## Lageplan
