@@ -16,12 +16,12 @@
 | ------------- | ------------- | ------------- | ------------- |
 | 15:00 | 18:00 | Fundsachen | Sekre |
 | 15:00 | 18:00 | 1.Hilfe: Demonstration HLW…, Wahlkurs Schulsanitäter | Krankenzimmer |
-| 15:00 | 18:00 | Buttonherstellung, 8a Schlehengeleeverkauf Wahlkurs Natur erleben / Imkern | P1.33 |
+| 15:00 | 18:00 | Buttonherstellung, 8a, Schlehengeleeverkauf Wahlkurs Natur erleben / Imkern | P1.33 |
 | 15:00 | 18:00 | Römer-Zimmer, Fachschaft Latein | P1.31 |
 | 15:00 | 18:00 | Roulette, 8c | P1.28 |
 | 15:00 | 18:00 | Sommerliches Basteln, z. B. Schmuck, SMV | P1.26 |
 | 15:00 | 18:00 | Sim Racin, Technik erFAHRbar machen | P1.24 |
-| 16:00 | 17:00 | Mario-Kart Battle | P1.21 |
+| 16:00 | 17:00 | Mario-Kart Battle, 6b | P1.21 |
 | 15:00 | 18:00 | Lapbooks der Jgst. 6 | Forum 6 |
 | 15:00 | 18:00 | Physikplakate Jgst. 11 und Lapbooks Jgst. 10 | Forum 5 |
 
@@ -34,7 +34,7 @@
 | 15:00 | 18:00 | Schulkleidungsshop P-Seminar  | MS1 |
 | 15:00 | 18:00 | Butterbrezeln, 10.Klassen | Mensa |
 | 15:00 | 18:00 | Tapas, Spanischkurse | Mensa |
-| 15:00 | 18:00 | Kaffee & Kuchen vom Elternbeirat + Q12 | Mensa |
+| 15:00 | 18:00 | Kaffee & Kuchen vom Elternbeirat & Q12 | Mensa |
 | 15:00 | 18:00 | Café der Freunde vom Freundeskreis | M1.01 |
 | 15:00 | 18:00 | Legoausstellung: 250 Jahre USA, Herr Gaul | Bio Forum Vitrinen |
 
@@ -44,7 +44,7 @@
 | Ab Wann? | Bis Wann? | Was? | Wo? |
 | ------------- | ------------- | ------------- | ------------- |
 | 15:00 | 17:00 | Töpfern von Insektentränken, Wahlkurs Umweltschule | P1.07 |
-| 15:00 | 18:00 | Fotobooth Wahlkurs Bühne und Kostüm | ZS1 |
+| 15:00 | 18:00 | Fotobooth, Wahlkurs Bühne und Kostüm | ZS1 |
 | 15:00 | 18:00 | Kinderschminken, Tutoren + 8b | ZS2 |
 
 ## Hof Valentin:
@@ -66,7 +66,7 @@
 | 15:00 | 18:00 | Basketball, Herr Will | Bei Regen: Gym Halle |
 | 15:00 | 18:00 | Fußballminigolf, 7d | Bei Regen: Gym Halle |
 | 15:00 | 18:00 | Skill Court, 7d | Bei Regen: Gym Halle |
-| 15:00 | 18:00 | Nageln | Bei Regen: P 1.22 |  
+| 15:00 | 18:00 | Nageln, 8d | Bei Regen: P 1.22 |  
 
 ## Vorderer Pausenhof:
 
