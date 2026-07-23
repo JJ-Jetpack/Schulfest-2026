@@ -20,7 +20,7 @@
 | 15:00 | 18:00 | Römer-Zimmer, Fachschaft Latein | P1.31 |
 | 15:00 | 18:00 | Roulette, 8c | P1.28 |
 | 15:00 | 18:00 | Sommerliches Basteln, z. B. Schmuck, SMV | P1.26 |
-| 15:00 | 18:00 | Sim Racin, Technik erFAHRbar machen | P1.24 |
+| 15:00 | 18:00 | Sim Racing, Technik erFAHRbar machen | P1.24 |
 | 16:00 | 17:00 | Mario-Kart Battle, 6b | P1.21 |
 | 15:00 | 18:00 | Lapbooks der Jgst. 6 | Forum 6 |
 | 15:00 | 18:00 | Physikplakate Jgst. 11 und Lapbooks Jgst. 10 | Forum 5 |
