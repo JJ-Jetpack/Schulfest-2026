@@ -49,14 +49,14 @@
 
 ## Hof Valentin:
 
-| Ab Wann? | Bis Wann? | Was? | Ort bei Regen |
+| Ab Wann? | Bis Wann? | Was? | Sonstiges |
 | ------------- | ------------- | ------------- | ------------- |
-| 15:00 | 17:30 | Riesen-Seifenblasen, 6d | P1.19 |  
-| 15:30 | 16:00 | Experimental-Workshop, Wahlkurs Jugend forscht | CÜ1 |  
-| 17:00 | 17:30 | Experimental-Workshop, Wahlkurs Jugend forscht | CÜ1 |
-| 15:00 | 18:00 | Dosenwerfen, 6c | P1.20 |
-| 15:00 | 18:00 | Eierkarton-Challenge, 6a | P0.20 |
-| 16:00 | 17:00 | Bobbycar Rennen, 8b | entfällt |
+| 15:00 | 17:30 | Riesen-Seifenblasen, 6d | Ort bei Regen: P1.19 |  
+| 15:30 | 16:00 | Experimental-Workshop, Wahlkurs Jugend forscht | Ort bei Regen: CÜ1 |  
+| 17:00 | 17:30 | Experimental-Workshop, Wahlkurs Jugend forscht | Ort bei Regen: CÜ1 |
+| 15:00 | 18:00 | Dosenwerfen, 6c | Ort bei Regen: P1.20 |
+| 15:00 | 18:00 | Eierkarton-Challenge, 6a | Ort bei Regen: P0.20 |
+| 16:00 | 17:00 | Bobbycar Rennen, 8b | entfällt bei Regen |
 | 15:00 | 18:00 | Getränke, SMV |  |
 
 ## Sportplatz:
