@@ -89,7 +89,7 @@
 | 16:25 | Tanz – WK Hip Hop & Musical Dance | Pausenhof |
 | 16:45 | Urwald-Song – MusiCalls & Schulchor | Aula |
 | 17:30 | Bigband | Aula |
-| 15:40 - 16:30 | Georgine and Jhonny's joined Jazz-Jam | Valentinhof |
+| 15:40 - 16:30 | Georgine and Jonny's joined Jazz-Jam | Valentinhof |
 
 Bei Regen: Tänze in der Gym Halle - Jazz in P1.19
 
